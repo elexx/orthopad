@@ -1,0 +1,5 @@
+config SHIELD_ELEXX_SPLIT64_V1_LEFT
+    def_bool $(shields_list_contains,elexx_split64_v1_left)
+
+config SHIELD_ELEXX_SPLIT64_V1_RIGHT
+    def_bool $(shields_list_contains,elexx_split64_v1_right)

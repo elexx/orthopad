@@ -1,0 +1,12 @@
+file_format: "1"
+id: elexx_split64_v1
+name: Elexx Split64
+type: shield
+url: ''
+requires: [ pro_micro ]
+features:
+  - keys
+  - studio
+siblings:
+  - elexx_split64_v1_left
+  - elexx_split64_v1_right
